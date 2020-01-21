@@ -10,6 +10,7 @@ Req/Bytes counts sampled once per second.
 
 ### dotnet core 3.1 (unfair)
 0 2xx responses, 612870 non 2xx responses
+
 613k requests in 11.07s, 96.8 MB read
 
 ### node
