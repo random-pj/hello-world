@@ -1,6 +1,6 @@
 autocannon i used to bench
 
-##CLJ (unfair)
+## CLJ (unfair)
 Running 10s test @ http://localhost:8080
 10 connections
 ┌─────────┬──────┬──────┬───────┬──────┬─────────┬─────────┬──────────┐
@@ -20,7 +20,7 @@ Req/Bytes counts sampled once per second.
 
 
 
-##go
+## go
 Running 10s test @ http://localhost:3030
 10 connections
 ┌─────────┬──────┬──────┬───────┬──────┬─────────┬─────────┬──────────┐
@@ -39,7 +39,7 @@ Req/Bytes counts sampled once per second.
 661k requests in 11.07s, 85.9 MB read
 
 
-##dotnet core 3.1 (unfair)
+## .net core 3.1 (unfair)
 Running 10s test @ http://localhost:5000/weatherforecast
 10 connections
 ┌─────────┬──────┬──────┬───────┬──────┬─────────┬─────────┬──────────┐
@@ -59,7 +59,7 @@ Req/Bytes counts sampled once per second.
 613k requests in 11.07s, 96.8 MB read
 
 
-##node
+## node
 Running 10s test @ http://localhost:8080
 10 connections
 ┌─────────┬──────┬──────┬───────┬──────┬─────────┬─────────┬──────────┐
