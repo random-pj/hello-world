@@ -2,7 +2,8 @@ autocannon i used to bench
 
 Req/Bytes counts sampled once per second.
 
-### CLJ (unfair)
+### CLJ
+651k requests in 11.07s, 85.3 MB read (httpkit)
 271k requests in 11.07s, 128 MB read
 
 ### go
